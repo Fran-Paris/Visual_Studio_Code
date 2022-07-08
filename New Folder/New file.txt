@@ -1,0 +1,3 @@
+Este documento está creado desde VSC dentro de una nueva carpeta
+Añado otra linea de texto
+Hay algun error?
